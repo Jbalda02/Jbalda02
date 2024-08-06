@@ -17,7 +17,7 @@ I am a passionate and motivated Junior - Trainee Software Developer eager to gro
 ### Project 1: Personal Portfolio Website
 - **Description**: Developed a personal portfolio website to showcase my projects and skills.
 - **Technologies Used**: HTML, CSS, JavaScript, React.
-- **Link**: [GitHub Repository](https://portfolio-1fff.vercel.app)
+- **Link**: [Link](https://portfolio-1fff.vercel.app)
 
 ### Project 2: Game Development in Unity
 - **Description**: Created a simple 3D Shooting Game.
@@ -36,12 +36,12 @@ I am a passionate and motivated Junior - Trainee Software Developer eager to gro
 
 ## Contact
 
-- **Email**: [your-email@example.com](mailto:jbaldac02@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/jose-fernando-balda-cañizares-10b224283/)
-- **GitHub**: [Your GitHub Profile](https://github.com/Jbalda02)
+- **Email**: [jbaldac02l@gmail.com](mailto:jbaldac02@gmail.com)
+- **LinkedIn**: [Linkedin](https://www.linkedin.com/in/jose-fernando-balda-cañizares-10b224283/)
+- **GitHub**: [Github](https://github.com/Jbalda02)
 
 ## Let's Connect!
 
 Let's connect and start working on exciting projects together! I am always looking for new opportunities to grow as a person and as a professional. You can contact me through my email or my social networks. I am always open to new challenges and opportunities.
 
-![Contact Image]([https://cdn-icons-png.flaticon.com/512/493/493808.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ96YnIBMCzXfCNbugQ7jI7-H2aCh0uEjLyAg&s))
+![Contact Image](https://cdn-icons-png.flaticon.com/512/493/493808.png)
