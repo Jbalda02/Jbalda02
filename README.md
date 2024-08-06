@@ -36,7 +36,7 @@ I am a passionate and motivated Junior - Trainee Software Developer eager to gro
 
 ## Contact
 
-- **Email**: [jbaldac02l@gmail.com](mailto:jbaldac02@gmail.com)
+- **Email**: [jbaldac02@gmail.com](mailto:jbaldac02@gmail.com)
 - **LinkedIn**: [Linkedin](https://www.linkedin.com/in/jose-fernando-balda-cañizares-10b224283/)
 - **GitHub**: [Github](https://github.com/Jbalda02)
 
