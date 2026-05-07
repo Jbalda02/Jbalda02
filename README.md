@@ -1,47 +1,70 @@
-# Junior - Trainee Software Developer
+# Jose Fernando Balda Cañizares
 
-## About Me
+**Software Developer · Computer Science Student @ UEES · Guayaquil, Ecuador**
 
-I am a passionate and motivated Junior - Trainee Software Developer eager to grow and develop my skills in the software development industry. I am always looking for new opportunities to learn and improve both as a person and as a professional. I thrive in collaborative environments and am excited to work on projects that challenge me and help me expand my knowledge.
+---
 
-## Skills
+## About me
 
-- **Front-End Development**: Proficient in HTML, CSS, JavaScript, and familiar with frameworks like React.
-- **Back-End Development**: Basic knowledge of Node.js and databases such as PostgresSQL and MySQL.
-- **Version Control**: Experience with Git and GitHub for version control and collaboration.
-- **Problem Solving**: Strong analytical skills and the ability to troubleshoot and solve problems effectively.
-- **Communication**: Excellent verbal and written communication skills, with the ability to work well in a team.
+Computer Science student (graduating 2026) with hands-on experience in full-stack development and data analysis. I've built backend systems with PHP and Node.js, developed frontend interfaces with React and the MERN stack, and delivered data reports using Power BI. Currently looking for opportunities to grow in product-driven tech teams.
+
+---
+
+## Tech stack
+
+| Area | Technologies |
+|------|-------------|
+| Frontend | React · Angular |
+| Backend | Node.js · Express · PHP |
+| Databases | PostgreSQL · MySQL |
+| Data | Power BI · Pandas · Excel |
+| Tools | Git · Docker |
+| Cloud | AWS (AI Practitioner · Cloud Fundamentals) |
+
+---
+
+## Experience
+
+🔵 **Software Developer — UEES** · Aug 2025 – Dec 2025
+Backend internship · PHP · PostgreSQL · Power BI
+
+🔵 **Frontend Developer — Control IQ** · Sep 2023 – Nov 2023
+MERN stack · React Native · UI development
+
+---
 
 ## Projects
 
-### Project 1: Personal Portfolio Website
-- **Description**: Developed a personal portfolio website to showcase my projects and skills.
-- **Technologies Used**: HTML, CSS, JavaScript, React.
-- **Link**: [Link](https://portfolio-1fff.vercel.app)
+### 🌐 Personal Portfolio
+Portfolio website showcasing projects and skills, deployed on Vercel.
+**Tech:** React · JavaScript · [Live demo](https://portfolio-1fff.vercel.app)
 
-### Project 2: Game Development in Unity
-- **Description**: Created a simple 3D Shooting Game.
-- **Technologies Used**: C#, Unity.
-- **Link**: [GitHub Repository](https://github.com/Jbalda02/Creation1)
+### 🎮 Classic Games Gallery
+Collection of classic games built with vanilla JavaScript.
+**Tech:** JavaScript · HTML · CSS · [Repo](https://github.com/Jbalda02/ClassicGamesGallery)
 
-### Project 3: Oracle of ...
-- **Description**: Created a Oracle Of Bacon Type App with Java
-- **Technologies Used**: Java, Data Structures.
-- **Link**: [GitHub Repository](https://github.com/Jbalda02/Creation1)
+### 🕹️ Unity 3D Shooter
+3D shooting game built as a university game development project.
+**Tech:** C# · Unity · [Repo](https://github.com/Jbalda02/Creation1)
 
-## Education
+---
 
-- **Bachelor's Degree in Computer Science** (Expected Graduation: 2025)
-  - Universidad De Especialidades Espiritu Santo (UEES)
+## Certifications
+
+🏆 AWS AI Practitioner
+🏆 AWS Cloud Fundamentals
+
+---
+
+## Languages
+
+- Spanish — Native
+- English — Advanced
+
+---
 
 ## Contact
 
-- **Email**: [jbaldac02@gmail.com](mailto:jbaldac02@gmail.com)
-- **LinkedIn**: [Linkedin](https://www.linkedin.com/in/jose-fernando-balda-cañizares-10b224283/)
-- **GitHub**: [Github](https://github.com/Jbalda02)
-
-## Let's Connect!
-
-Let's connect and start working on exciting projects together! I am always looking for new opportunities to grow as a person and as a professional. You can contact me through my email or my social networks. I am always open to new challenges and opportunities.
-
-![Contact Image](https://cdn-icons-png.flaticon.com/512/493/493808.png)
+[![Email](https://img.shields.io/badge/Email-jbaldac02%40gmail.com-blue?style=flat&logo=gmail)](mailto:jbaldac02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose%20Balda-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jose-fernando-balda-ca%C3%B1izares-10b224283/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=vercel)](https://portfolio-1fff.vercel.app)
